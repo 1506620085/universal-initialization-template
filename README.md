@@ -1,4 +1,4 @@
-# SpringBoot 项目初始模板
+# 万用初始化模板 - SpringBoot 后端
 
 > 作者：[Hangz](https://github.com/1506620085)
 
